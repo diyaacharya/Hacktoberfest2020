@@ -1,4 +1,4 @@
-ef SieveOfEratosthenes(n): 
+def SieveOfEratosthenes(n): 
       
      
     prime = [True for i in range(n+1)] 
